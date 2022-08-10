@@ -10,5 +10,5 @@ Extracurricular
 
 
 Skills
-
+Coding with python, html, js, css
 
