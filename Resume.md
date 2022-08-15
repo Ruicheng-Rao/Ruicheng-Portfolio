@@ -8,11 +8,11 @@
 Emoplyment: 
 
 ## Education:
--Peachtree City Elementary School (2-5)
--JC Booth Middle School (6-8) -Mchintosh High School (current)
--Viola in Middle School
--Swimming at YMCA
--Coding with python, html, js, css
+- Peachtree City Elementary School (2-5)
+- JC Booth Middle School (6-8) -Mchintosh High School (current)
+- Viola in Middle School
+- Swimming at YMCA
+- Coding with python, html, js, css
 
 
 ## Hobbies: 
