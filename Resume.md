@@ -1,11 +1,12 @@
 # Ruicheng's Resume
 
 ## Work Experience:
--Washing Dishes
--House renovation
--Pulling New floorboards
+- Washing Dishes
+- House renovation
+- Puting New floorboards
+- Volunteering at the food bank
 
-Emoplyment: 
+
 
 ## Education:
 - Peachtree City Elementary School (2-5)
@@ -20,3 +21,4 @@ Emoplyment:
 - Airplanes
 - Drones
 - Music
+- Video Games
