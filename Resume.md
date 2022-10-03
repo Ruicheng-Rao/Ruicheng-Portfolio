@@ -22,3 +22,6 @@
 - Drones
 - Music
 - Video Games
+
+## Typing:
+- J,F,Space
