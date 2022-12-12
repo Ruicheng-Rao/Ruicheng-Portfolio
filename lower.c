@@ -11,7 +11,7 @@ int main() {
 			str[i] = str[i] + 32;
 			printf("Inside if: %c = %i in ascii \n", str[i], str[i]);
 		}
-		if(str[i] >= 'a' && str[i] <= 'z') {
+		else if(str[i] >= 'a' && str[i] <= 'z') {
 			str[i] = str[i] - 32;
 		}
 	}
